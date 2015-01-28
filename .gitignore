@@ -1,0 +1,6 @@
+*.o
+*.cmi
+*.cmt
+*.cmx
+*.swp
+*.merlin
